@@ -1,7 +1,7 @@
 self.addEventListener("install", e=> {
     e.waitUntil(
         caches.open("staticnoisy").then(cache => {
-            return cache.addAll([".", "/app/favicon_notes.png"]);
+            return cache.addAll([".", "/Notes/favicon_notes.png"]);
         })
     );
 });
