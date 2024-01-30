@@ -4,3 +4,4 @@ Notes about this project:
   Use square app icons, even if the icon you want to use isn't square. You can pretend it's square, and get away with it. 
   There are multiple URL links to set. Watch out for them all!
   This works offline when downloaded.
+  Use Lighthouse reports in the Chrome inspector tool to see a PWA checklist. 
