@@ -7,7 +7,7 @@
     "display": "standalone",
     "icons": [
         {
-            "src": "/app/favicon_notes.png",
+            "src": "/Notes/favicon_notes.png",
             "sizes": "960x720",
             "type": "image/png"
         }
